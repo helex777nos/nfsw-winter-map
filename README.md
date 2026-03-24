@@ -1,6 +1,6 @@
 # Winter Map
 
-![Winter Map]("/images/1_1.webp")
+![Winter Map](/images/1_1.webp)
 
 ## Description
 This mod replaces world map in NFSW with modded, like it's snowy.\
@@ -22,5 +22,5 @@ v1.0 (31/12/2025): Initial release.\
 v1.1 (02/01/2026): Added snow overlay.
 
 ## Screenshots
-![Map (No events)]("/images/1_2.webp")\
-![Map (With events)]("/images/1_3.webp")
+![Map (No events)](/images/1_2.webp)\
+![Map (With events)](/images/1_3.webp)
